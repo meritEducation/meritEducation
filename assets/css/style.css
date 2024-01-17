@@ -609,6 +609,22 @@ animation: pulse-animation 2s infinite;
     color: var(--brand-secondary-color);
 
 }
+.copyrights .pages span{
+  padding: 0 10px;
+  display: inline-block;
+}
+.copyrights .pages{
+  border-bottom: 1px solid #EEE;
+}
+.copyrights .pages span a{
+  text-decoration: none;
+  color: #FFF;
+}
+.copyrights .pages span a:hover{
+  text-decoration: none;
+  color: var(--brand-secondary-color);
+}
+
 /* End CopyRights Style */
 
 

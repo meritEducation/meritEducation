@@ -238,14 +238,20 @@
 
       
 
-  <!-- Start CopyRight Section -->
-  <section class="copyrights text-center">
-    <div class="container ">
+    <!-- Start CopyRight Section -->
+    <section class="copyrights text-center">
+      <div class="container ">
+          <div class="py-4  pages">
+              <span><a href="">الشروط و الاحكام</a></span>
+              <span>|</span>
+              <span><a href="">سياسة الخصوصية</a></span>
+      
+          </div>
       <div class="py-4">
-        <span>&copy;جميع الحقوق محفوظة 2023</span>
+          <span>&copy;جميع الحقوق محفوظة 2024</span>
 
       </div>
-    </div>
+      </div>
   </section>
   <!-- End CopyRight Section -->
 
